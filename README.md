@@ -4,6 +4,9 @@
 # Projeto
 O projeto escolhido foi um código em Java que eu fiz para a matéria de Programação Orientada a Objetos no 3º Período do curso. A ideia era criar um projeto simples para veterinários, onde seria possível cadastrar um animal (armazenando ele em uma lista) e também podia procurar o animal pelo seu nome, para o projeto foi utilizado o Swing para fazer a interface.
 
+<h3>Detalhes</h3>
+O código que eu upei é o atualizado, porém eu só alterei a classe Aves e criei o Builder para exemplo, o restante do código está sem alteração.
+
 # Possíveis melhorias
 <h2>1° melhoria: Refatorar código</h2>
 As instâncias de criação das telas e da funcionalidade dos botões estão na classe Main, o que deixa muito confuso para saber de qual ação é aquele botão. Sendo assim, daria para refatorar o código, criando novas classes e tornando o código mais organizado e eficiente:
