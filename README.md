@@ -11,7 +11,7 @@ As instâncias de criação das telas e da funcionalidade dos botões estão na 
 ![image](https://github.com/user-attachments/assets/0ed08fd6-18c4-41c7-bce8-59bbe40ad78a)
 
 <h2>2ª melhoria: Encapsular as Funções das telas de cadastro (Strategy)</h2>
-Nas classes da criação das telas dos cadastros (cadastro_anfibio, cadastro_aves, etc...) possuem a repetição de diversas funções. Logo, no meu projeto, poderia ser criado uma interface do "Strategy", o que deixaria o código mais flexivel e modular:
+Nas classes da criação das telas dos cadastros (cadastro_anfibio, cadastro_aves, etc...) possuem a repetição de diversas funções com o mesmo propósito. Logo, no meu projeto, poderia ser criado uma interface do "Strategy", o que deixaria o código mais flexivel e modular:
 
 ![image](https://github.com/user-attachments/assets/1f14a84c-05fa-4976-b921-6202af0b7220)
 
