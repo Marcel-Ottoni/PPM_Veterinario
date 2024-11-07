@@ -5,7 +5,7 @@ Nome: Marcel Ottoni de Oliveira
 O projeto escolhido foi um código em Java que eu fiz para a matéria de Programação Orientada a Objetos no 3º Período do curso. A ideia era criar um projeto simples para veterinários, onde seria possível cadastrar um animal (armazenando ele em uma lista) e também podia procurar o animal pelo seu nome, para o projeto foi utilizado o Swing para fazer a interface.
 
 # Possíveis melhorias
-<h2>1° melhoria: Separar Responsabilidades (Factory)</h2>
+<h2>1° melhoria: Refatorar código (Factory)</h2>
 As instâncias de criação das telas, da funcionalidade dos botões, criação da lista e do animal estão tudo no Main.java. Sendo assim, para tornar o código menos poluido e mais fácil para uma possível manutenção, daria para criar outras classes específicas para: <b>interface, outra classe para as ações do botão e outra para a criação do animal</b>
 
 ![image](https://github.com/user-attachments/assets/0ed08fd6-18c4-41c7-bce8-59bbe40ad78a)
