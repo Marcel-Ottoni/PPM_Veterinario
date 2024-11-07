@@ -1,5 +1,5 @@
 # PPM_Veterinario
-Nome: Marcel Ottoni de Oliveira
+<h3>Nome: Marcel Ottoni de Oliveira</h3>
 
 # Projeto
 O projeto escolhido foi um código em Java que eu fiz para a matéria de Programação Orientada a Objetos no 3º Período do curso. A ideia era criar um projeto simples para veterinários, onde seria possível cadastrar um animal (armazenando ele em uma lista) e também podia procurar o animal pelo seu nome, para o projeto foi utilizado o Swing para fazer a interface.
