@@ -11,12 +11,15 @@ O código que eu upei é o atualizado, porém eu só alterei a classe Aves e cri
 <h2>1° melhoria: Refatorar código</h2>
 As instâncias de criação das telas e da funcionalidade dos botões estão na classe Main, o que deixa muito confuso para saber de qual ação é aquele botão. Sendo assim, daria para refatorar o código, criando novas classes e tornando o código mais organizado e eficiente:
 
-![image](https://github.com/user-attachments/assets/0ed08fd6-18c4-41c7-bce8-59bbe40ad78a)
+![image](https://github.com/user-attachments/assets/0b801776-6e96-41b9-af1f-6baf70c5cbd1)
+
+![image](https://github.com/user-attachments/assets/77e690cc-062e-44de-b649-ad70b83d2d60)
+
 
 <h2>2ª melhoria: Encapsular as Funções das telas de cadastro</h2>
 Nas classes da criação das telas dos cadastros (cadastro_anfibio, cadastro_aves, etc...) possuem a repetição de diversas funções com o mesmo propósito. Logo, no meu projeto, poderia ser criado uma interface, o que deixaria o código mais flexivel e modular:
 
-![image](https://github.com/user-attachments/assets/1f14a84c-05fa-4976-b921-6202af0b7220)
+![image](https://github.com/user-attachments/assets/1e4966a6-75c8-41a7-a18d-9f3c9b550425)
 
 
 <h2>3ª melhoria: Singleton para a Lista</h2>
